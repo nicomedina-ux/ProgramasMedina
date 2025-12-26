@@ -1,7 +1,7 @@
-## Calculadora
+#1 Calculadora
 
 Calculadora simple con JavaScript.
 
-### Aprendizajes
+#2 Aprendizajes
 - Funciones
 - Eventos
